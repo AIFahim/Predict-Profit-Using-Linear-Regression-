@@ -40,9 +40,9 @@ Link: https://www.kaggle.com/amithasanshuvo/covid-19-analysis-on-bangladesh/ (Pl
 1. Before Ploting Best fit Line (features representation) 
 2. After Ploting Best fit Line using Linear Regression
 
-Before Ploting Best fit Line (features representation)            |  After Ploting Best fit Line using Linear Regression        | dsfjslkdfjskldjflksdjf 
-:-------------------------:|:------------------------:|:----------------------:
-<img src = "https://user-images.githubusercontent.com/33654834/97114467-d7ad9d00-171a-11eb-8214-cae935e302d6.png" /> | <img src = "https://user-images.githubusercontent.com/33654834/97114471-dd0ae780-171a-11eb-8e45-4f8ec4fcdecc.png" /> | <img src = "https://user-images.githubusercontent.com/33654834/97114471-dd0ae780-171a-11eb-8e45-4f8ec4fcdecc.png" />
+Before Ploting Best fit Line (features representation)            |  After Ploting Best fit Line using Linear Regression        
+:-------------------------:|:------------------------:
+<img src = "https://user-images.githubusercontent.com/33654834/97114467-d7ad9d00-171a-11eb-8214-cae935e302d6.png" /> | <img src = "https://user-images.githubusercontent.com/33654834/97114471-dd0ae780-171a-11eb-8e45-4f8ec4fcdecc.png" /> 
 
 <!--
 <img src = "https://user-images.githubusercontent.com/33654834/97114467-d7ad9d00-171a-11eb-8214-cae935e302d6.png" width="500" height="500"/>  <img src = "https://user-images.githubusercontent.com/33654834/97114471-dd0ae780-171a-11eb-8e45-4f8ec4fcdecc.png" width="500" height="500"/>
