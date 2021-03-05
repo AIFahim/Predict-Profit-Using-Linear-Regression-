@@ -1,5 +1,5 @@
 # Predict Profit for Bike Sharing Company Using Linear Regression
-![Author](https://img.shields.io/badge/author-Md. Asif Iqbal Fahim-orange)
+![Author](https://img.shields.io/badge/author-AIFahim-orange)
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/AIFahim/Predict-Profit-Using-Linear-Regression-/blob/main/LICENSE.md)
 
 ![linear Regression 1](https://user-images.githubusercontent.com/33654834/97114467-d7ad9d00-171a-11eb-8214-cae935e302d6.png)
