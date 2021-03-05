@@ -4,6 +4,8 @@
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/AIFahim/Predict-Profit-Using-Linear-Regression-/blob/main/LICENSE.md)
 
 
+<hr>
+
 # Author: Md. Asif Iqbal Fahim
 
 Department of Computer Science & Engineering, </br>
@@ -33,8 +35,17 @@ Link: https://www.kaggle.com/amithasanshuvo/covid-19-analysis-on-bangladesh/ (Pl
 
 -->
 
+## Data Visualizations :
+
+1. Before Bestfit
+2. After Bestfit
+
+
 <img src = "https://user-images.githubusercontent.com/33654834/97114467-d7ad9d00-171a-11eb-8214-cae935e302d6.png" width="500" height="500"/>  <img src = "https://user-images.githubusercontent.com/33654834/97114471-dd0ae780-171a-11eb-8e45-4f8ec4fcdecc.png" width="500" height="500"/>
 
+
+
+<!--
 ![linear Regression 1](https://user-images.githubusercontent.com/33654834/97114467-d7ad9d00-171a-11eb-8214-cae935e302d6.png)
 ![linear Regression 2](https://user-images.githubusercontent.com/33654834/97114471-dd0ae780-171a-11eb-8e45-4f8ec4fcdecc.png)
 
